@@ -18,7 +18,7 @@ The main reason for the analysis is to find out:
 
 **2. Which types of restaurants are the most favored by the general public**
 
-**3. What price range is preferred by couples fofoodir dinner at restaurants?**
+**3. What price range is preferred by couples for food at restaurants?**
 
 # Libraries Used
 
