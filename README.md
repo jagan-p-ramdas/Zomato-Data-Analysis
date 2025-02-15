@@ -12,6 +12,14 @@ This Data Analytics project analyzes the Zomato dataset to uncover insights abou
 
 📊 Voting patterns across different restaurant categories
 
+The main reason for the analysis is to find out:
+
+**1. Do a greater number of restaurants provide online delivery as opposed to offline services?**
+
+**2. Which types of restaurants are the most favored by the general public**
+
+**3. What price range is preferred by couples fofoodir dinner at restaurants?**
+
 # Libraries Used
 
 📦 pandas - Data manipulation
