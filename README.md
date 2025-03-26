@@ -40,7 +40,7 @@ The main reason for the analysis is to find out:
 
 ✅ Data Visualizations for Key Metrics
 
-# **Contact**
+ **Contact**
 
 For any issues or questions, feel free to reach out:
 
