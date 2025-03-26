@@ -44,8 +44,8 @@ The main reason for the analysis is to find out:
 
 For any issues or questions, feel free to reach out:
 
-📧 Email: jaganpram27@gmail.com
+📧 Email: *jaganpram27@gmail.com*
 
-🔗 LinkedIn: https://www.linkedin.com/in/jagan-p-ramdas-9b939530a/
+🔗 LinkedIn: *https://www.linkedin.com/in/jagan-p-ramdas-9b939530a/*
 
 
