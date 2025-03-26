@@ -24,7 +24,7 @@ The main reason for the analysis is to find out:
 
 📦 pandas - *Data manipulation*
 
-🔢 numpy - Numerical computing
+🔢 numpy - *Numerical computing*
 
 📈 matplotlib - Data visualization
 
