@@ -24,11 +24,11 @@ The main reason for the analysis is to find out:
 
   Pandas - *Data manipulation*
 
-  numpy - *Numerical computing*
+  Numpy - *Numerical computing*
 
-  matplotlib - *Data visualization*
+  Matplotlib - *Data visualization*
 
-  seaborn - *Statistical plotting*
+  Seaborn - *Statistical plotting*
 
  # Key Features
 
