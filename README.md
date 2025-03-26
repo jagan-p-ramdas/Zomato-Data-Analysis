@@ -28,7 +28,7 @@ The main reason for the analysis is to find out:
 
 📈 matplotlib - *Data visualization*
 
-🎨 seaborn - Statistical plotting
+🎨 seaborn - *Statistical plotting*
 
  # Key Features
 
