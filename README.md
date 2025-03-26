@@ -26,7 +26,7 @@ The main reason for the analysis is to find out:
 
 🔢 numpy - *Numerical computing*
 
-📈 matplotlib - Data visualization
+📈 matplotlib - *Data visualization*
 
 🎨 seaborn - Statistical plotting
 
