@@ -22,13 +22,13 @@ The main reason for the analysis is to find out:
 
 # Libraries Used
 
-📦 pandas - *Data manipulation*
+  pandas - *Data manipulation*
 
-🔢 numpy - *Numerical computing*
+  numpy - *Numerical computing*
 
-📈 matplotlib - *Data visualization*
+  matplotlib - *Data visualization*
 
-🎨 seaborn - *Statistical plotting*
+  seaborn - *Statistical plotting*
 
  # Key Features
 
