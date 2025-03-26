@@ -22,7 +22,7 @@ The main reason for the analysis is to find out:
 
 # Libraries Used
 
-  pandas - *Data manipulation*
+  Pandas - *Data manipulation*
 
   numpy - *Numerical computing*
 
